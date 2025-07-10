@@ -1,2 +1,4 @@
 # Iserveu_task
-It is for coding assesment
+problem statement :- Compressed Path Sum In Zigzag Matrix 
+language :- c++
+proof :- screenshots, word file(coding)
